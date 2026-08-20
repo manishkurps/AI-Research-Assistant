@@ -1,5 +1,7 @@
 # 🔬 AI Research Assistant
 
+> **Created by:** MANISH KUMAR
+
 A conversational AI research assistant that allows users to upload research papers and ask questions about their documents using a **LangGraph-powered RAG (Retrieval-Augmented Generation) pipeline**.
 
 The system combines **LangGraph, ChromaDB, HuggingFace embeddings, and Google Gemini** to retrieve relevant information from uploaded research papers and generate grounded answers.
